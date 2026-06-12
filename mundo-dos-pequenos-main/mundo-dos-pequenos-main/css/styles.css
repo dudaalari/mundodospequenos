@@ -655,6 +655,7 @@ footer {
     flex-direction: column;
     gap: 30px;
   }
+  
   .auth-box {
     padding: 25px;
     margin: 15px;
