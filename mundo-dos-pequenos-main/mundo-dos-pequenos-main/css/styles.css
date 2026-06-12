@@ -619,6 +619,13 @@ footer {
   color: var(--primary-purple);
 }
 
+.portfolio {
+ text-align: 
+ center; 
+ width: 100%;
+display: block;
+}
+
 /* Responsividade */
 @media (max-width: 768px) {
   .hero,
@@ -655,7 +662,6 @@ footer {
     flex-direction: column;
     gap: 30px;
   }
-  
   .auth-box {
     padding: 25px;
     margin: 15px;
